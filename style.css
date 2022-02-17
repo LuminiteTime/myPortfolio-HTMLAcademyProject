@@ -192,7 +192,7 @@ h3 {
   height: 640px;
   object-fit: cover;
   border-radius: 30px;
-  box-shadow: 10px 10px 9px 1px #505050;
+  box-shadow: 0 4px 32px rgba(249, 221, 121, 0.6);
 }
 
 .intro .container div {
